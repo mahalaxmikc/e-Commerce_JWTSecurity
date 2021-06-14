@@ -1,0 +1,9 @@
+2021-06-14T17:42:28.746+0530 INFO Starting JWTECommerceApplication on LAPTOP-AJAI2R1S with PID 15052 (started by umesh in D:\02-Mahi\udacity\course-4\JDND\projects\P04-eCommerce Application\starter_code)
+2021-06-14T17:42:28.750+0530 INFO No active profile set, falling back to default profiles: default
+2021-06-14T17:42:31.886+0530 INFO Started JWTECommerceApplication in 3.357 seconds (JVM running for 4.07)
+2021-06-14T17:42:47.425+0530 INFO [CREATE USER] [Success] for user : user1
+2021-06-14T17:43:51.376+0530 INFO Starting JWTECommerceApplication on LAPTOP-AJAI2R1S with PID 1512 (started by umesh in D:\02-Mahi\udacity\course-4\JDND\projects\P04-eCommerce Application\starter_code)
+2021-06-14T17:43:51.381+0530 INFO No active profile set, falling back to default profiles: default
+2021-06-14T17:43:54.516+0530 INFO Started JWTECommerceApplication in 3.356 seconds (JVM running for 4.046)
+2021-06-14T17:44:01.751+0530 INFO [CREATE USER] [Success] for user : user1
+2021-06-14T17:44:19.781+0530 INFO [LOGIN] [Success] for user : user1
